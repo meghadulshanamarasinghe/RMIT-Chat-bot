@@ -1,0 +1,1 @@
+COSC3106 Course Offering Course ID: 056558 Course Code: COSC3106 Course Title: Python Programming Studio Teaching Period: UGRDFlex25 Offering Class: 1294 Class Section: STEM Class Start Date: 24-03-2025 Class End Date: 30-06-2025 Version: 1 Status: Published School: Computing Technologies Campus: City Academic Career: Undergraduate Credit Points: 24.00
