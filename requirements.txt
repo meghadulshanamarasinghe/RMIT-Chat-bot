@@ -1,8 +1,23 @@
 Notes
     Environment Setup: Perform these steps in a new directory or clean up any existing .venv if reusing the project folder.
     API Key: Ensure your .env file contains OPENAI_API_KEY=your_api_key_here for the OpenAI API to work.
-    Timestamp: It’s 03:29 PM +0530 on June 09, 2025—plenty of time to set this up before your submission deadline.
-    Troubleshooting: If any command fails, check for internet connectivity or permission issues. Share any error messages for further assistance.
+	Steps to create a .env file and include the API key:
+		Create the .env File:
+            In your project directory, create a file named .env.
+
+            Open the .env file in any text editor (such as Notepad, VS Code, or Sublime Text).
+
+            Add the API Key:
+
+            Inside the .env file, add the following line:
+
+
+            OPENAI_API_KEY="your_api_key_here"
+            Replace "your_api_key_here" with your actual OpenAI API key (you can obtain it from OpenAI's developer portal).
+
+            Save the File:
+
+            Save the .env file in the same directory as your main Python files (chatbot_brain.py, chatbot_ui.py).
 
 Step-by-Step Guide
 1. Create a Virtual Environment
